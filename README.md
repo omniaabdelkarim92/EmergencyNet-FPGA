@@ -308,7 +308,7 @@ Use this format in the GitHub description/readme and manuscript supplementary ma
 	title   = {Hardware-Aware Deployment of EmergencyNet for Real-Time UAV Disaster Recognition},
 	author  = {Omnia Abdel Karim and Sameh Sherif and Rami Zewail and Koji Inoue and Mohammed S. Sayed},
 	journal = {The Visual Computer},
-	year    = {<2026>},
+	year    = {2026},
 	doi     = {10.5281/zenodo.19651017}
 }
 ```
