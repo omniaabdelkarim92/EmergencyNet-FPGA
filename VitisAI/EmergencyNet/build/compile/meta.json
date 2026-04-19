@@ -1,0 +1,8 @@
+{
+    "lib": "libvart-dpu-runner.so",
+    "filename": "zcu104_ACFFModel_int.xmodel.xmodel",
+    "kernel": [
+        "subgraph_ACFFModel__ACFFModel_AdaptiveAvgPool2d_gap__7481_i0"
+    ],
+    "target": "DPUCZDX8G_ISA1_B4096"
+}
