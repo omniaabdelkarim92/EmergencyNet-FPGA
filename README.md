@@ -273,26 +273,7 @@ Notes:
 - ResNet18 deploy scripts: `VitisAI/ResNet18/scripts/`
 - SqueezeNet deploy scripts: `VitisAI/SqeezeNet/scripts/`
 
-## Transparency Checklist (Journal-Oriented)
 
-This section maps repository contents to typical transparency requirements requested during manuscript screening.
-
-- Full source code in public repository: covered (`EmergencyNet-FPGA` repository).
-- Open-source project link in manuscript/abstract: add your final GitHub URL in the paper.
-- DOI for source release: pending (mint DOI via Zenodo/Figshare and update links below).
-- Dataset disclosure with README: partially covered (dataset format described here; see `datasets/README.md` for release template).
-- Dependencies and requirements: covered (`requirements.txt` and Environment Setup section).
-- Key algorithm description and implementation links: covered (Models + implementation paths).
-- Testing protocol/data split disclosure: covered in the Reproducibility section below.
-- Citation format mentioning article title and journal: covered (`CITATION.cff` + citation block below).
-
-## Open-Source And DOI
-
-Update this section once archiving is complete:
-
-- GitHub repository: `https://github.com/omniaabdelkarim92/EmergencyNet-FPGA`
-- Code archive DOI (Zenodo/Figshare): `https://doi.org/10.5281/zenodo.19651017`
-- Release tag linked to manuscript: `vX.Y.Z`
 
 Tip: connect GitHub to Zenodo, create a release, then paste the generated DOI here and in the manuscript abstract/system-submission form.
 
@@ -327,7 +308,7 @@ Use this format in the GitHub description/readme and manuscript supplementary ma
 	title   = {Hardware-Aware Deployment of EmergencyNet for Real-Time UAV Disaster Recognition},
 	author  = {Omnia Abdel Karim and Sameh Sherif and Rami Zewail and Koji Inoue and Mohammed S. Sayed},
 	journal = {The Visual Computer},
-	year    = {<YEAR>},
+	year    = {<2026>},
 	doi     = {10.5281/zenodo.19651017}
 }
 ```
