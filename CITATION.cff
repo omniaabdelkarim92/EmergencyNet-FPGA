@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite the associated article in The Visual Computer."
 title: "Hardware-Aware Deployment of EmergencyNet for Real-Time UAV Disaster Recognition"
 version: "0.1.0"
-doi: "10.0000/TBD"
+doi: "10.5281/zenodo.19651017"
 date-released: "2026-04-19"
 authors:
   - family-names: "Abdel Karim"
@@ -31,4 +31,4 @@ preferred-citation:
       given-names: "Koji"
     - family-names: "Sayed"
       given-names: "Mohammed S."
-  doi: "10.0000/TBD"
+  doi: "10.5281/zenodo.19651017"

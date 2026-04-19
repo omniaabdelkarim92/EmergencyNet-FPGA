@@ -290,8 +290,8 @@ This section maps repository contents to typical transparency requirements reque
 
 Update this section once archiving is complete:
 
-- GitHub repository: `https://github.com/<user-or-org>/EmergencyNet-FPGA`
-- Code archive DOI (Zenodo/Figshare): `https://doi.org/<to-be-added>`
+- GitHub repository: `https://github.com/omniaabdelkarim92/EmergencyNet-FPGA`
+- Code archive DOI (Zenodo/Figshare): `https://doi.org/10.5281/zenodo.19651017`
 - Release tag linked to manuscript: `vX.Y.Z`
 
 Tip: connect GitHub to Zenodo, create a release, then paste the generated DOI here and in the manuscript abstract/system-submission form.
@@ -328,7 +328,7 @@ Use this format in the GitHub description/readme and manuscript supplementary ma
 	author  = {Omnia Abdel Karim and Sameh Sherif and Rami Zewail and Koji Inoue and Mohammed S. Sayed},
 	journal = {The Visual Computer},
 	year    = {<YEAR>},
-	doi     = {<DOI>}
+	doi     = {10.5281/zenodo.19651017}
 }
 ```
 
