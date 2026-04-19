@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated article in The Visual Computer."
+title: "Hardware-Aware Deployment of EmergencyNet for Real-Time UAV Disaster Recognition"
+version: "0.1.0"
+doi: "10.0000/TBD"
+date-released: "2026-04-19"
+authors:
+  - family-names: "Abdel Karim"
+    given-names: "Omnia"
+  - family-names: "Sherif"
+    given-names: "Sameh"
+  - family-names: "Zewail"
+    given-names: "Rami"
+  - family-names: "Inoue"
+    given-names: "Koji"
+  - family-names: "Sayed"
+    given-names: "Mohammed S."
+preferred-citation:
+  type: article
+  title: "Hardware-Aware Deployment of EmergencyNet for Real-Time UAV Disaster Recognition"
+  journal: "The Visual Computer"
+  year: 2026
+  authors:
+    - family-names: "Abdel Karim"
+      given-names: "Omnia"
+    - family-names: "Sherif"
+      given-names: "Sameh"
+    - family-names: "Zewail"
+      given-names: "Rami"
+    - family-names: "Inoue"
+      given-names: "Koji"
+    - family-names: "Sayed"
+      given-names: "Mohammed S."
+  doi: "10.0000/TBD"
